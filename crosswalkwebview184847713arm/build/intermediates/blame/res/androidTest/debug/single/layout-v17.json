@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SeeMarket\\crosswalkwebview184847713arm\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v17\\validation_message_bubble.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SeeMarket\\crosswalkwebview184847713arm\\build\\intermediates\\bundles\\debug\\res\\layout-v17\\validation_message_bubble.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SeeMarket\\crosswalkwebview184847713arm\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v17\\autofill_keyboard_accessory_item.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SeeMarket\\crosswalkwebview184847713arm\\build\\intermediates\\bundles\\debug\\res\\layout-v17\\autofill_keyboard_accessory_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SeeMarket\\crosswalkwebview184847713arm\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v17\\color_picker_dialog_content.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SeeMarket\\crosswalkwebview184847713arm\\build\\intermediates\\bundles\\debug\\res\\layout-v17\\color_picker_dialog_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SeeMarket\\crosswalkwebview184847713arm\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v17\\date_time_suggestion.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SeeMarket\\crosswalkwebview184847713arm\\build\\intermediates\\bundles\\debug\\res\\layout-v17\\date_time_suggestion.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SeeMarket\\crosswalkwebview184847713arm\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v17\\multi_field_time_picker_dialog.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SeeMarket\\crosswalkwebview184847713arm\\build\\intermediates\\bundles\\debug\\res\\layout-v17\\multi_field_time_picker_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SeeMarket\\crosswalkwebview184847713arm\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v17\\dropdown_item.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SeeMarket\\crosswalkwebview184847713arm\\build\\intermediates\\bundles\\debug\\res\\layout-v17\\dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SeeMarket\\crosswalkwebview184847713arm\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v17\\two_field_date_picker.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SeeMarket\\crosswalkwebview184847713arm\\build\\intermediates\\bundles\\debug\\res\\layout-v17\\two_field_date_picker.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SeeMarket\\crosswalkwebview184847713arm\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v17\\color_picker_advanced_component.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SeeMarket\\crosswalkwebview184847713arm\\build\\intermediates\\bundles\\debug\\res\\layout-v17\\color_picker_advanced_component.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SeeMarket\\crosswalkwebview184847713arm\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v17\\color_picker_dialog_title.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SeeMarket\\crosswalkwebview184847713arm\\build\\intermediates\\bundles\\debug\\res\\layout-v17\\color_picker_dialog_title.xml"
+    }
+]
